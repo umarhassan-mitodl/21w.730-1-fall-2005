@@ -2,8 +2,6 @@
 content_type: page
 description: The Syllabus section provides informations about required reading, assignments,
   revision process, major writing assignments, sevice-learning option, course requirements.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -37,7 +35,7 @@ Moser, Joyce, and Ann Watters, eds. _Creating America: Reading and Writing Argum
 
 Lunsford, Andrea A. _Easy Writer: A Pocket Guide._ 2nd ed. Boston, MA: Bedford/St. Martin's Press, 2002, 2005. ISBN: 9780312433093.
 
-You should also have on hand a college dictionary and thesaurus such as _The Oxford English Dictionary._ New York, NY: Oxford University Press, 2004. ISBN: 9780198608646. For general writing reference, consult _Easy Writer_ as well as Leslie Perelman, James Paradis, Edward Barrett. [_The Mayfield Handbook of Scientific and Technical Writing_](http://www.mhhe.com/mayfieldpub/tsw/home.htm).
+You should also have on hand a college dictionary and thesaurus such as _The Oxford English Dictionary._ New York, NY: Oxford University Press, 2004. ISBN: 9780198608646. For general writing reference, consult _Easy Writer_ as well as Leslie Perelman, James Paradis, Edward Barrett. {{% resource_link "5de71275-7eb6-40e4-8343-0d686e15c7d2" "_The Mayfield Handbook of Scientific and Technical Writing_" %}}.
 
 Assignments: Three Major Writing Assignments, Revision Process, Reader-Writer Notebook, Oral Presentation, Final Portfolio
 --------------------------------------------------------------------------------------------------------------------------

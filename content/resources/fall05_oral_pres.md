@@ -4,8 +4,6 @@ description: This resource provide information about oral presentation.
 file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/9dd7121d1f380a0252c2063db153c9c0_fall05_oral_pres.pdf
 file_size: 51163
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

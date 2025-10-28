@@ -10,48 +10,48 @@ uid: 01ed1822-9158-ed6d-98e9-9acb62623821
 Photography Resources
 ---------------------
 
-[Photographs of Lewis Hine](http://www.historyplace.com/unitedstates/childlabor/)
+{{% resource_link "af30ea76-8dd0-4483-8d49-0a9134fe2a89" "Photographs of Lewis Hine" %}}
 
-[Web site: American Memory Collection Photos and Print](https://www.loc.gov/collections/)
+{{% resource_link "67dcf932-6502-42b6-81cf-d19713dd6006" "Web site: American Memory Collection Photos and Print" %}}
 
 Other Resources
 ---------------
 
-[Angel on Death Row - PBS Web site](http://www.pbs.org/wgbh/pages/frontline/angel/)
+{{% resource_link "5c1da8c2-fe43-4cd5-9f67-7bdb4cb30bdd" "Angel on Death Row - PBS Web site" %}}
 
-[MIT Gender Equity Project](http://diversity.mit.edu/status-undergrad-women/)
+{{% resource_link "96316c4c-989d-4933-a170-735c75a04981" "MIT Gender Equity Project" %}}
 
 Student Publications
 --------------------
 
-[E-merging](http://web.mit.edu/emerging/)
+{{% resource_link "2f0907e3-ceb5-4cf8-a6d1-c78fa0f9fa4d" "E-merging" %}}
 
 Counterpoint
 
-[Rune](http://web.mit.edu/rune/www/)
+{{% resource_link "548b4d97-d4a5-46c2-b69a-f4e32541f976" "Rune" %}}
 
-[The Tech](http://www-tech.mit.edu/)
+{{% resource_link "50792826-026e-4069-b287-70289d9db121" "The Tech" %}}
 
 MIT Writing Resources
 ---------------------
 
-[MIT Program In Writing and Humanistic Studies](http://web.mit.edu/humanistic/www/)
+{{% resource_link "53945a03-d320-4bdc-b499-f11a93afd2a7" "MIT Program In Writing and Humanistic Studies" %}}
 
-[MIT Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/)
+{{% resource_link "feb858e8-fe5b-4418-9579-3f99d8e43fa2" "MIT Writing and Communication Center" %}}
 
-[MIT Communication Requirement](http://web.mit.edu/commreq/index.html)
+{{% resource_link "4edbbfca-ec1e-4eb4-b733-137358a90836" "MIT Communication Requirement" %}}
 
-[Writing Resources on the World Wide Web](http://web.mit.edu/uaa/www/writing/links/)
+{{% resource_link "ff366d6e-be01-4425-b11f-45a9529a36b0" "Writing Resources on the World Wide Web" %}}
 
-[Writing Across the Curriculum at MIT](http://web.mit.edu/wac/writing/index.html)
+{{% resource_link "c3b323e4-7bba-4c2e-9746-29a3d1b85060" "Writing Across the Curriculum at MIT" %}}
 
 Writing Prize Competitions
 --------------------------
 
-[Ilona Karmel Writing Prizes](http://cmsw.mit.edu/publications/ilona-karmel-writing-prizes/)
+{{% resource_link "3ae95217-3f76-4ea5-a3a6-18aa5a863c85" "Ilona Karmel Writing Prizes" %}}
 
-[Louis Kampf Writing Prize in Women's Studies](http://web.mit.edu/wgs/prize/)
+{{% resource_link "7320314e-bc4b-41a5-97db-cc67b69a339f" "Louis Kampf Writing Prize in Women's Studies" %}}
 
-[I. Austin Kelly Essay Prizes](http://web.mit.edu/kdfund/essay/index.html)
+{{% resource_link "c3c29d44-3b5a-49d0-a0de-dad7f3c8cec4" "I. Austin Kelly Essay Prizes" %}}
 
-[Benjamin Siegel Prize in Science, Technology and Society](http://sts-program.mit.edu/benjamin-siegel-writing-prize/)
+{{% resource_link "ff46613e-9789-4a63-b310-6ae948bb37cc" "Benjamin Siegel Prize in Science, Technology and Society" %}}

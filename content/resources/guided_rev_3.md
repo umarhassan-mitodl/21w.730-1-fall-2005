@@ -4,8 +4,6 @@ description: This resource provides information about guided revision.
 file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/483d0a176f1d71dd47107f3137378552_guided_rev_3.pdf
 file_size: 43350
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

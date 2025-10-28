@@ -4,8 +4,6 @@ description: Reader-Writer Notebook/Journal
 file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/e7d82edcaeb5696d5978ab7030eee781_readwritnotaok.pdf
 file_size: 53591
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

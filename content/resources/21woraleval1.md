@@ -4,8 +4,6 @@ description: ''
 file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/656632366c9050d3e4a88a1b134acd52_21woraleval1.pdf
 file_size: 35393
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: The reading section provides informaion about the required readings and
   readings according to the topics.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -52,28 +50,28 @@ Sister Prejean, Helen. _Dead Man Walking: An Eyewitness Account of the Death Pen
 Online Readings
 ---------------
 
-[Susan Sontag, On Photography](http://www.susansontag.com/SusanSontag/books/onPhotography.shtml) (excerpt)
+{{% resource_link "e50b94b6-8754-49ab-ab39-dbc5ee4caa6a" "Susan Sontag, On Photography" %}} (excerpt)
 
-[Declaration of Sentiments and Resolutions](https://liberalarts.utexas.edu/coretexts/_files/resources/texts/1848DeclarationofSentiments.pdf)
+{{% resource_link "90e3eddd-ef30-405d-8569-4e7e57ac393c" "Declaration of Sentiments and Resolutions" %}}
 
-[Girl, Interrupted](http://www.bookbrowse.com/excerpts/index.cfm?book_number=241) (excerpt)
+{{% resource_link "ff8f4dd6-f92a-4d75-b6fb-9a83eeeeffb6" "Girl, Interrupted" %}} (excerpt)
 
-"[The Ultimate Punishment: A Defense](http://www.pbs.org/wgbh/pages/frontline/angel/procon/haagarticle.html)" - E. Van den Haag
+"{{% resource_link "c0e9ba12-2fe1-46a8-aca8-74ba5eacb366" "The Ultimate Punishment: A Defense" %}}" - E. Van den Haag
 
 Films
 -----
 
 _A Christmas Carol_.
 
-Rosenblum, Nina. [_America and Lewis Hine_](http://www.imdb.com/title/tt0128927/). 1985.
+Rosenblum, Nina. {{% resource_link "0118886d-020d-4172-9286-3626246d3755" "_America and Lewis Hine_" %}}. 1985.
 
-Hampton, Henry. [_Eyes on the Prize_](http://www.imdb.com/title/tt0092999/). 1987.
+Hampton, Henry. {{% resource_link "c13e1723-7be5-46b9-86c2-f50056e172da" "_Eyes on the Prize_" %}}. 1987.
 
-Mangold, James. [_Girl, Interrupted_](http://www.imdb.com/title/tt0172493/). 1999.
+Mangold, James. {{% resource_link "63cfaf51-0f6e-4fd8-b1ac-733d590090a8" "_Girl, Interrupted_" %}}. 1999.
 
-[_Killing Us Softly_](http://www.imdb.com/title/tt0336699/). 1999.
+{{% resource_link "46a4c39d-89d9-4ef8-a0b9-7de367b69cc6" "_Killing Us Softly_" %}}. 1999.
 
-Robbins, Tim. [_Dead Man Walking_](http://www.imdb.com/title/tt0112818/). 1995.
+Robbins, Tim. {{% resource_link "95631662-2e3d-49c0-9fea-e086bd508590" "_Dead Man Walking_" %}}. 1995.
 
 {{< anchor "session" >}}{{< /anchor >}}Readings by Class Session
 ----------------------------------------------------------------

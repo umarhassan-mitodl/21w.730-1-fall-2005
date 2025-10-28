@@ -4,8 +4,6 @@ description: This resource provides information about writer?s portrait assignme
 file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/b39f1e78112ef2e073b5f6fa80c9e0fd_fall05_w_p.pdf
 file_size: 84070
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

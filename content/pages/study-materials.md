@@ -2,8 +2,6 @@
 content_type: page
 description: The study materials section provides information about development of
   a film.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
